@@ -17,5 +17,3 @@ Renombren esos videos así, ya que es lo que se encuentra en nuestro data source
 7.mp4
 8.mp4
 ```
-# flutter-toktik
-# flutter-toktik
